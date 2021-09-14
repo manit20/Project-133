@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+    padding: 5px;
+}
+
+.back_button{
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: lightgreen;
+}
+
+#button{
+    text-align: right;
+}
+
+#status{
+    font-size: 22px;
+}
+
+.how_many{
+    font-size: 18px;
+}
+
+canvas{
+    border-radius: 20px;
+    border-color: white;
+    box-shadow: 10px 10px 10px grey;
+}

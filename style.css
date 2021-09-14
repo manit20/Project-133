@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    font-size: 25px;
+    padding: 10px;
+}
+
+.buttons{
+    font-size: 18px;
+    border-radius: 50px;
+    width: 25%;
+    background-color: yellow;
+}
